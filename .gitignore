@@ -1,14 +1,7 @@
 # Ignore .idea files 
 # and .iml .tmp
 
+.idea/
+
 *.iml
 *.tmp
-
-inspectionProfiles
-compiler.xml
-description.html
-encodings.xml
-misc.xml
-modules.xml
-vcs.xml
-workspace.xml
